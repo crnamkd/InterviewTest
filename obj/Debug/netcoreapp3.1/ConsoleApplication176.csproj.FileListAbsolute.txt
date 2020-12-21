@@ -1,0 +1,13 @@
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\bin\Debug\netcoreapp3.1\ConsoleApplication176.exe
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\bin\Debug\netcoreapp3.1\ConsoleApplication176.deps.json
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\bin\Debug\netcoreapp3.1\ConsoleApplication176.runtimeconfig.json
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\bin\Debug\netcoreapp3.1\ConsoleApplication176.runtimeconfig.dev.json
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\bin\Debug\netcoreapp3.1\ConsoleApplication176.dll
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\bin\Debug\netcoreapp3.1\ConsoleApplication176.pdb
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.dll
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.pdb
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.genruntimeconfig.cache
+C:\Users\Tomas\source\repos\ConsoleApplication176\ConsoleApplication176\obj\Debug\netcoreapp3.1\ConsoleApplication176.csprojAssemblyReference.cache
